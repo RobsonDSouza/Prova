@@ -2,3 +2,4 @@
 2 - Commit: empacotamento de alterações no repositório local.
 3 - Repositório: Local de armazenamento de códigos.
 4 - Merge: E a unificação das branches no repositório master.
+5 - Pull: Quando você trás informções(alterações) do repositório remoto para repositório local.
