@@ -1,1 +1,2 @@
 1 - Clone: é quando faz a cópia do projetro no repositório remoto e clona no repositório local.
+2 - Commit: empacotamento de alterações no repositório local.
