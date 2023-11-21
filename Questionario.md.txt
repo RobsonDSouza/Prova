@@ -6,3 +6,4 @@
 6 - Branch: São ramificações(bifurcações) criadas no repositório para implementações de versões do projeto antes de adaptar no principal.
 7 - Pull request: quando voce descobre um erro no projeto de terceiros, acha a solução e propõe uma colaboração no projeto.
 8 - Fork: São alterações no código fonte do projeto.
+9 - VCS : Software de Controle de Versão.
