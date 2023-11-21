@@ -1,3 +1,4 @@
 1 - Clone: é quando faz a cópia do projetro no repositório remoto e clona no repositório local.
 2 - Commit: empacotamento de alterações no repositório local.
 3 - Repositório: Local de armazenamento de códigos.
+4 - Merge: E a unificação das branches no repositório master.
