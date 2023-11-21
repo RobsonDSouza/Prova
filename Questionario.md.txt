@@ -4,3 +4,4 @@
 4 - Merge: E a unificação das branches no repositório master.
 5 - Pull: Quando você trás informções(alterações) do repositório remoto para repositório local.
 6 - Branch: São ramificações(bifurcações) criadas no repositório para implementações de versões do projeto antes de adaptar no principal.
+7 - Pull request: quando voce descobre um erro no projeto de terceiros, acha a solução e propõe uma colaboração no projeto.
